@@ -2,3 +2,5 @@
 *-backups/
 *.kicad_*-bak
 *.log
+
+production/
